@@ -1,4 +1,4 @@
-# Plualsight's Angular Crash Course
+# Weight Tracker App
 
 Enter new weight on page, default to current date
 Highlight if they put in a past date
@@ -17,5 +17,4 @@ BMI tracking
 Need some kind of content projection - popup? Maybe a common Tip component
 Http - https://github.com/typicode/json-server
 
-Finish demo
-Break down demo into outline
+
