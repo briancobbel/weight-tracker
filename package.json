@@ -1,5 +1,5 @@
 {
-  "name": "healthy-me",
+  "name": "weight-tracker",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "server": "json-server --routes data/routes.json --watch data/healthyMeData.json",
+    "server": "json-server --routes data/routes.json --watch data/WeightTrackerData.json",
     "e2e": "ng e2e"
   },
   "private": true,
